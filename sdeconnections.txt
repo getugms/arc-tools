@@ -1,0 +1,3 @@
+#dsName|dsType|serverPath|clientPath|hostname
+
+dsName=gistempt_gis_311|dsType=DATABASE|serverPath=E:\Installer\Connections\dc_gistempt_gis_311.sde

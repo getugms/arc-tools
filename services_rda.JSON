@@ -1,0 +1,10 @@
+[
+	{
+		"directory" : "RDA",
+		"service"   : "PAPL_Web",
+		"mxd" 	    : "RDA/PAPL_Web.mxd",
+		"tags"	    : "Phila gov rda",
+		"summary"   : "Phila gov rda"
+	}
+
+]

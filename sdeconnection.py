@@ -1,9 +1,6 @@
 import sys,os
-
 import getpass
-
 import arcpy
-
 import codecs
 
 def main(argv=None):
